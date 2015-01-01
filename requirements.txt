@@ -1,7 +1,10 @@
 Django==1.7.1
 Markdown==2.5.2
 django-filter==0.8
-djangorestframework==2.4.4
+django-oauth2-provider==0.2.6.1
+djangorestframework==3.0.2
 httplib2==0.9
 oauth2==1.5.211
+psycopg2==2.5.4
+shortuuid==0.4.2
 wsgiref==0.1.2
